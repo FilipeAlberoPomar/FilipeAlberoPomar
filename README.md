@@ -4,7 +4,7 @@ I'm Filipe, a back-end developer... turned Scrum Master, Agile Coach, Delivery M
 
 I ♥ software development.
 
-In here you will find some pieces of code I wrote to scratch a personal itch or another.
+In here you will find some pieces of code I wrote to scratch an itch or another.
 
 -_-_-
 
