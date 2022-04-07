@@ -1,16 +1,11 @@
-### Hi there! 👋
+### Hiya! 👋
 
-You've done it. Somehow you managed to find my GitHub repo.
+I'm a back-end developer... turned Scrum Master, Agile Coach, Delivery Manager.
 
-I'm a back-end developer turned Scrum Master, turned Agile Coach, turned Delivery Manager...
+I ♥ software development.
 
-I love software. And in here you will find some pieces of code I write on my free time for fun.
+In here you will find some pieces of code I wrote to scratch a personal itch or another.
 
-The code snippets here are messy, half-formed and unpolished.
-
-But they might actually be useful to other people.
-
-Browse around. And let me know if I can help.
 
 <!--
 **FilipeAlberoPomar/FilipeAlberoPomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
