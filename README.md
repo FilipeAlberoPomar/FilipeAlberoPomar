@@ -1,11 +1,16 @@
-### Hiya! 👋
+# Hiya! 👋
 
-I'm a back-end developer... turned Scrum Master, Agile Coach, Delivery Manager.
+I'm Filipe, a back-end developer... turned Scrum Master, Agile Coach, Delivery Manager.
 
 I ♥ software development.
 
 In here you will find some pieces of code I wrote to scratch a personal itch or another.
 
+-_-_-
+
+📫 **How to reach me**
+
+https://www.linkedin.com/in/filipe-albero-pomar
 
 <!--
 **FilipeAlberoPomar/FilipeAlberoPomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
