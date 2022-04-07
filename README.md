@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there! 👋
+
+You've done it. Somehow you managed to find my GitHub repo.
+
+I'm a back-end developer turned Scrum Master, turned Agile Coach, turned Delivery Manager...
+
+I love software. And in here you will find some pieces of code I write on my free time for fun.
+
+The code snippets here are messy, half-formed and unpolished.
+
+But they might actually be useful to other people.
+
+Browse around. And let me know if I can help.
 
 <!--
 **FilipeAlberoPomar/FilipeAlberoPomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
