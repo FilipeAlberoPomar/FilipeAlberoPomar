@@ -5,7 +5,10 @@
 I'm Filipe, a back-end developer... turned Scrum Master, Agile Coach, Delivery Manager.
 
 In here you will find some code I wrote to scratch an itch or another.
+  
+-_-_-
 
+https://www.linkedin.com/in/filipe-albero-pomar
 
 ![WORLD](https://user-images.githubusercontent.com/76520153/163693939-ce68a711-72a8-4149-95d9-07a5154a5a18.GIF)
 
