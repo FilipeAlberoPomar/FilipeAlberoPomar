@@ -6,8 +6,6 @@ In here you will find some code I wrote to scratch an itch or another.
 
 -_-_-
 
-📫 **How to reach me**
-
 https://www.linkedin.com/in/filipe-albero-pomar
 
 <!--
