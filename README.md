@@ -2,8 +2,6 @@
 
 I'm Filipe, a back-end developer... turned Scrum Master, Agile Coach, Delivery Manager.
 
-I ♥ software development.
-
 In here you will find some code I wrote to scratch an itch or another.
 
 -_-_-
