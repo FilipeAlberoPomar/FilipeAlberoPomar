@@ -1,3 +1,5 @@
+<p align="center">
+
 ![welcome](https://user-images.githubusercontent.com/76520153/163693933-6ea79a86-3def-4d2a-a1f1-080fdc301359.gif)
 
 I'm Filipe, a back-end developer... turned Scrum Master, Agile Coach, Delivery Manager.
@@ -14,3 +16,5 @@ In here you will find some code I wrote to scratch an itch or another.
 
 
 ![counter](https://user-images.githubusercontent.com/76520153/163694006-b4725df4-59cc-433c-87da-825852de581b.gif)
+  
+</p>
