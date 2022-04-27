@@ -6,7 +6,7 @@ In here you will find some code I wrote to scratch an itch or another.
 
 -_-_-
 
-Find me [LinkedIn](https://www.linkedin.com/in/filipe-albero-pomar)
+Find me on [LinkedIn](https://www.linkedin.com/in/filipe-albero-pomar)
 
 <!--
 **FilipeAlberoPomar/FilipeAlberoPomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
