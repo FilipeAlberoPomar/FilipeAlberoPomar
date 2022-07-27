@@ -1,6 +1,6 @@
 # Hiya! 👋
 
-I'm Filipe, a former back-end developer... turned Scrum Master, Agile Coach, Delivery Manager.
+I'm Filipe, a former back-end developer... turned Engineering Manager, Agile Coach.
 
 In here you will find some code I wrote to scratch an itch or another.
 
