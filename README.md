@@ -1,12 +1,14 @@
-# Hiya! 👋
+# Hello!
 
-I'm Filipe, a former back-end developer... turned Engineering Manager, Agile Coach.
+Here, you'll find small programs I've written to pursue different personal interests. 
 
-In here you will find some code I wrote to scratch an itch or another.
+///
 
--_-_-
+I'm passionate about products and growing talent. My mission: build teams that are predictable, transparent and engaged. 🚀 Engineering Manager at Maersk | Previously at HP, Sky
 
-Want to connect? [LinkedIn](https://www.linkedin.com/in/filipe-albero-pomar)
+You can view my complete profile on LinkedIn.
+
+[www.linkedin.com/in/filipe-albero-pomar](https://www.linkedin.com/in/filipe-albero-pomar)
 
 <!--
 **FilipeAlberoPomar/FilipeAlberoPomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
