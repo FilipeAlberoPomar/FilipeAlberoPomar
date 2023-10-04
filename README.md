@@ -2,7 +2,7 @@
 
 Here, you'll find small programs I've written to pursue different personal interests. 
 
-///
+...
 
 I'm passionate about products and growing talent. My mission: build teams that are predictable, transparent and engaged. 🚀 Engineering Manager at Maersk | Previously at HP, Sky
 
