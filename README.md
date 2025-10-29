@@ -1,14 +1,12 @@
-# Hello!
 
-Here, you'll find small programs I've written to pursue different personal interests. 
+# Hello 👋
 
-...
+This is a collection of personal projects and experiments in Java and Python.  
+Topics include AI, data scraping, automation, and coding exercises.
 
-I'm passionate about products and growing talent. My mission: build teams that are predictable, transparent and engaged. 🚀 Engineering Manager at Maersk | Previously at HP, Sky
+- Engineering Manager at Maersk | Previously HP & Sky  
+- You can connect with me on [LinkedIn](https://www.linkedin.com/in/filipe-albero-pomar)
 
-You can view my complete profile on LinkedIn.
-
-[www.linkedin.com/in/filipe-albero-pomar](https://www.linkedin.com/in/filipe-albero-pomar)
 
 <!--
 **FilipeAlberoPomar/FilipeAlberoPomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
