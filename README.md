@@ -1,6 +1,3 @@
-
-# Hello 👋
-
 This is a collection of personal projects and experiments in Java and Python.  
 Topics include AI, data scraping, automation, and coding exercises.
 
